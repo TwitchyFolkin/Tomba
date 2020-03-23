@@ -28,6 +28,7 @@ section 02 : Lava Caves
 section 03 : Phoenix's nest
 section 04 : Stormy Mountain (purified)
 section 05 : Stormy Mountain (purified, second part)
+
 AREA04 : Haunted Mansion
 section 00 : North Side of Mansion
 section 01 : West Side of Mansion
@@ -82,6 +83,7 @@ section 03 : Mansion (Chandelier room)
 section 04 : Mansion (descending stairs)
 section 05 : Mansion (ascending stairs)
 section 06 : Leaf Slider
+
 AREA10 : Deep Jungle
 section 00 : Masakari Jungle
 section 01 : Masakari River
@@ -133,6 +135,7 @@ section 04 : Evil Pig area Five
 section 05 : Evil Pig area Six
 section 06 : Evil Pig area Seven
 section 07 : Evil Pig area Eight
+
 AREA16 : Village of Civilization (Clock Tower)
 section 00 : Stonestown (soft locks the game)
 section 01 : Clock Tower (soft locks the game)
