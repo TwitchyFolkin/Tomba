@@ -1,2 +1,2 @@
 # Tomba
-A place where the unused of Tomba gets discovered.
+A place where the unused parts of Tomba gets discovered.
