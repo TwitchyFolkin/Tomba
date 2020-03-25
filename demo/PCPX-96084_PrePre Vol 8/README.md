@@ -1,3 +1,11 @@
 PrePre Vol. 8
 プレプレ　Ｖｏｌ．８
 http://redump.org/disc/36812/
+
+-=RAM values locations=-
+Item ID: $DE3A0
+Amount of items: $DE31E
+Event status: $DE21D
+- 00 Not found
+- 01 Found
+- 02 Completed
