@@ -9,3 +9,6 @@ Event status: $DE21D
 - 00 Not found
 - 01 Found
 - 02 Completed
+Current AREA: 800DE0D8 
+Current SECTION: 800DE0DA 
+Current WHM plane: 800DE0DC 
