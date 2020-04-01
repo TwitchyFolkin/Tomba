@@ -1,0 +1,8 @@
+Tomba ripping, linux
+clone
+https://github.com/tatref/psximager
+Follow INSTALL steps
+
+once installed go to psximager/src
+
+psxrip /path/to/tomba.cue
