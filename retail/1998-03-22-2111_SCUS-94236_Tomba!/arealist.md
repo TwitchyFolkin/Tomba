@@ -75,16 +75,6 @@ section 01 : Baccus Lake
 section 02 : Baccus Pier
 section 03 : Baccus Lake
 
-### AREA10 : Deep Jungle
-section 00 : Masakari Jungle
-section 01 : Masakari River
-section 02 : Old Tree Hill
-section 03 : Trick Village
-section 04 : Masakari Jungle (purified)
-section 05 : Masakari River (purified)
-section 06 : Old Tree Hill (purified)
-section 07 : Trick Village (purified)
-section 08 : 10,000 Year Old Man's Room
 
 ### AREA09 : Mushroom village
 section 00 : Mushroom Forest
