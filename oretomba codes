@@ -1,0 +1,85 @@
+oretomba cccodes
+
+
+events 09e94c > 09ea0b
+00 not found
+01 found
+ff complete
+09ea4a (show blank events?)
+
+09e518 health 10
+09e519 max health 10
+ 
+status
+09ee58 00 = hurt? temp invincible 01 = can be hurt (can't be changed)
+0009ee59
+normal 00
+laughing 01
+cvcyring 02cc
+
+09e528 lives
+
+purple level
+09e940 00 > 09
+09e944 experiance 00 > 3c
+green level
+09e941 00 > 09
+09e945experiance 00 > 3c
+blue level
+09e942 00 > 09
+09e946experiance 00 > 3c
+
+09e538 stone ability 
+00 off 
+01 fire
+02 bubbles
+03 wind
+
+09e94a can pause game usingn start 00 = yes 01 = no
+09ee5b = speed
+normal > very fast
+00 green pants
+01 purple pants
+02 silver pants
+03 red pants
+03 = sacred fish enabled
+00 > 08
+
+0009ee58 = can you do an action?
+0 on the ground
+1 in the air
+
+
+09ec4c (how much do of i have of an item) >> 09ed0e
+00 = none, 01 = 1 etc.
+
+09ed4c > 09ee0e item lists start 00 > cf? 
+
+09ee4c amount of items pages?
+
+09ea51 start an event? 100 year old man only?
+
+09e4ea allow enimies to move 00 = move 01 = freeze
+09e4e7 freeze tomba 00 = freeze 01 = move
+
+
+09ea51 02 activate 100 year old man quest
+09ea52 guide tornado telling 06 he has talked to you
+09ea65 01 talking to charles first time
+09ea64 ff 0f get animal dash when next to charles
+09eaa0 01 equipe funky parasol
+09eaae 01 get silver power at village of all beginings?
+09eba3 01 sacred fish enabled
+09ebae 01 psycic fish enabled
+09e53d bubbles under house 00 = not destroy 30 = bottom destroyed f0 = top destroyed also 38 = chick picked up
+09e53f 08 = chick picked up? outside underground entrance
+
+09e52c 01 = picked up tornado get tornado
+09e541 ff = got ap box at ole pond
+09e542 ole pond 80 = got bannanas 40 = got bell c0 = bannans and bell
+
+09e93e location?
+09e948 location?
+
+09e4ed pushes you to the right?
+
