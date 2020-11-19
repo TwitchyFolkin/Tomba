@@ -1,0 +1,59 @@
+yoi ko
+
+timer
+minutes 
+0008b9e4
+seconds
+0008b9e5
+mililseconds
+0008b9e6
+end game
+0008b9e7
+
+
+events start ff complete 01 found 00 not found
+09d264
+
+09cd50
+0d in controll?
+41 not in controll?
+1a in air?
+
+09ce22 "20" from old pond takes you to old mans hut? then can't move
+"03" kills you
+"04" warps you to motocross exit in beginign village
+"05" yan hiding first time
+"06" blank
+"07" village of all begnings
+"08" notihing
+"09" nothing
+0a imediate death
+"0d" now loading to nothing
+16 blank
+19 village of all begnings
+
+not real numbers though
+09ce30 helath level 01 > 0f > 10
+09ce30 total health can have 01 > 0f > 10
+
+09fc28 rendering of the screen
+
+09d564 3rd item amount e.g. 1-4 chicks
+
+09d764 amount of items you have 
+
+09d772 which weapon is equiped oo = blackjack
+09d773 whcih pants are equiped
+
+09d772 = equiped item
+00 blackjack
+05 boomerang
+06 stone bomerang
+07 cross stoen bommerang
+08 grapplec
+09d773 speed
+
+09d771 status
+
+09d56a 100 year old key
+09d588 red key 1000 year old man?

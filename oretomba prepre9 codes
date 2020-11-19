@@ -1,0 +1,68 @@
+prepre9 timer
+minutes 
+00090e14
+seconds
+00090e15
+end game
+00090e17
+000a260b ff = end game
+
+dwarf challanged(end game) 0a259d 
+events start ff complete 01 found 00 not found
+0a2580
+
+
+0a4f3c starts a mission??
+0a4f3d ends a mission at dwarf elders house
+
+0a2a9a
+05 boomerang
+06 stone boomerang
+07 cross bomerang
+08 grapplejack
+
+status
+0a2a99
+00 normal
+01 laugh
+02 cry
+
+movement speed
+0a2a9b
+00 slow
+05 max
+
+item slots
+amoutn of items 0a2a8c
+slot 1 0a298c
+00>ff?
+
+0a28b0 1000 year old key 
+0a288c chicks amount
+0a2893 = wings amount?
+items
+
+07 wings
+0e baron
+15 funky parasol
+19 map
+1c = grey pants
+1d purple pants
+1e lunch box?
+1f purple lunch box?
+20 green pants
+21 green power
+22 ?
+23 pig nose
+24 green key?
+25 green pig bag
+26 green pig badg 2?
+27 yellow pig bad
+28 green gold pig bag
+29 green brown pig bag
+2a green brown pig bag 2
+2b brown and green pig bag
+2c pogostick? drill? menu error
+2d crash
+2e
+2f
