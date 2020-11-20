@@ -1,7 +1,30 @@
-# Tomba
-A place where the unused parts of Tomba gets discovered.
+<!-- GITHUB TAGS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
 
--=Data list=-
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="#">
+	<!-- <img src="TombArt/logo.png" alt="Logo" width="80" height="80"> -->
+	<img src="TombArt/logo.png" alt="Logo">
+  </a>
+</p>
+
+## Table of Contents
+
+* [About the Project](#about-the-project)
+* [Data list](#data-list)
+* [Useful Links](#useful-links)
+* [Contributing](#contributing)
+* [Contact](#contact)
+
+
+### About the Project
+A centralized Tomba's repository where you can find all useful resources.
+
+### Data list
+```sh
 1997/06/24 - PrePre Vol 8
 1997/09/22 - Hyper PlayStation Re-mix No. 12
 1997/10/10 - Ore! Tomba (Standalone Demo)
@@ -21,3 +44,24 @@ A place where the unused parts of Tomba gets discovered.
 1998/06/18 - Winter Releases 98 Revision 1
 1998/06/19 - Tombi! (Retail - Dutch, English, French, German, Italian)
 1998/06/19 - Tombi! (Retail - Danish, English, Portuguese, Spanish, Swedish)
+```
+
+### Useful Links
+
+* **Reddit page**: [Click here](https://www.reddit.com/r/TombaClub/comments/9y5u3o/tombi_tomba_romhacking_general/?utm_medium=android_app&utm_source=share)
+
+* **Discord server**: [Click here](https://discord.gg/xCWRzftf)
+
+* **Sound effects**: [Click here](https://goo.gl/HmwUEd)
+
+### Contributing
+Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+3. Push to the Branch (`git push origin feature/AmazingFeature`)
+4. Open a Pull Request
+
+
+### Contact
+You can find us on discord server ;)
