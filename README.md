@@ -1,6 +1,7 @@
-<!-- GITHUB TAGS -->
+<!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -12,18 +13,28 @@
 </p>
 
 ## Table of Contents
-
 * [About the Project](#about-the-project)
-* [Data list](#data-list)
 * [Useful Links](#useful-links)
+* [Data list](#data-list)
 * [Contributing](#contributing)
 * [Contact](#contact)
 
 
-### About the Project
+## About the Project
 A centralized Tomba's repository where you can find all useful resources.
 
-### Data list
+
+## Useful Links
+* **Reddit page**: [Click here](https://www.reddit.com/r/TombaClub/comments/9y5u3o/tombi_tomba_romhacking_general/?utm_medium=android_app&utm_source=share)
+
+* **Discord server**: [Click here](https://discord.gg/xCWRzftf)
+
+* **Sounds**:
+1. [Original](https://goo.gl/HmwUEd)
+2. [Piano songs](https://github.com/mrlovre/tomba2piano)
+
+
+## Data list
 ```sh
 1997/06/24 - PrePre Vol 8
 1997/09/22 - Hyper PlayStation Re-mix No. 12
@@ -46,15 +57,7 @@ A centralized Tomba's repository where you can find all useful resources.
 1998/06/19 - Tombi! (Retail - Danish, English, Portuguese, Spanish, Swedish)
 ```
 
-### Useful Links
-
-* **Reddit page**: [Click here](https://www.reddit.com/r/TombaClub/comments/9y5u3o/tombi_tomba_romhacking_general/?utm_medium=android_app&utm_source=share)
-
-* **Discord server**: [Click here](https://discord.gg/xCWRzftf)
-
-* **Sound effects**: [Click here](https://goo.gl/HmwUEd)
-
-### Contributing
+## Contributing
 Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
@@ -63,5 +66,15 @@ Any contributions you make are **greatly appreciated**.
 4. Open a Pull Request
 
 
-### Contact
+## Contact
 You can find us on discord server ;)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/TwitchyFolkin/repo.svg?style=flat-square
+[contributors-url]: https://github.com/TwitchyFolkin/Tomba/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/TwitchyFolkin/repo.svg?style=flat-square
+[forks-url]: https://github.com/TwitchyFolkin/Tomba/network/members
+[stars-shield]: https://img.shields.io/github/stars/TwitchyFolkin/repo.svg?style=flat-square
+[stars-url]: https://github.com/TwitchyFolkin/Tomba/stargazers
