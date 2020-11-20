@@ -1,8 +1,3 @@
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -68,13 +63,3 @@ Any contributions you make are **greatly appreciated**.
 
 ## Contact
 You can find us on discord server ;)
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/TwitchyFolkin/repo.svg?style=flat-square
-[contributors-url]: https://github.com/TwitchyFolkin/Tomba/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/TwitchyFolkin/repo.svg?style=flat-square
-[forks-url]: https://github.com/TwitchyFolkin/Tomba/network/members
-[stars-shield]: https://img.shields.io/github/stars/TwitchyFolkin/repo.svg?style=flat-square
-[stars-url]: https://github.com/TwitchyFolkin/Tomba/stargazers
