@@ -1,0 +1,1 @@
+Master samples of the soundtrack from the first game, found on the blog and Soundcloud of Fujita, blog is not longer up.
