@@ -5,8 +5,11 @@ Images repository
 * Official 
 images from old Whoopee Camp website
 
+* SpriteSheets (Credits: [Click here](https://www.spriters-resource.com/playstation/tombi/))
+Official games sprite sheets
+
 * FanArt
-images from Fan community
+images from Tomba Club Fan community
 
 * GIFs
 
