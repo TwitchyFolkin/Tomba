@@ -10,7 +10,7 @@
 ## Table of Contents
 * [About the Project](#about-the-project)
 * [Useful Links](#useful-links)
-* [Data list](#data-list)
+* [Demo built dates](#demo-built-dates)
 * [Contributing](#contributing)
 * [Contact](#contact)
 
@@ -26,10 +26,10 @@ A centralized Tomba's repository where you can find all useful resources.
 
 * **Sounds**:
 1. [Original](https://goo.gl/HmwUEd)
-2. [Piano songs](https://github.com/mrlovre/tomba2piano)
+2. [Piano songs + sheets](https://github.com/mrlovre/tomba2piano)
 
 
-## Data list
+## Demo build dates
 ```sh
 1997/06/24 - PrePre Vol 8
 1997/09/22 - Hyper PlayStation Re-mix No. 12
