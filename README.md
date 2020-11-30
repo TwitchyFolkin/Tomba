@@ -39,6 +39,7 @@ A centralized Tomba's repository where you can find all useful resources.
 1997/11/06 - Dengeki PlayStation D5
 1997/12/02 - Ore! Tomba (Retail)
 1998/01/26 - Interactive CD Sampler Disc 6
+1998/02/03 - Localization Prototype
 1998/03/05 - PlayStation Underground Jampack
 1998/03/05 - Toys R Us Demo Disc
 1998/03/20 - Tomba! (Standalone Demo)
