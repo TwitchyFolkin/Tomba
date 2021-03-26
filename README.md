@@ -68,4 +68,5 @@ Any contributions you make are **greatly appreciated**.
 
 
 ## Contact
-You can find us on discord server ;)
+Join the [Discord server.](https://discord.gg/2Bzw8JB)
+Follow [WhoopeeCamp](https://twitter.com/whoopeecamp) and the [Tomba Club](https://twitter.com/TombaClub) on Twitter
