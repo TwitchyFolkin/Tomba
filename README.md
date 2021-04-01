@@ -52,6 +52,11 @@ A centralized Tomba's repository where you can find all useful resources.
 1998/06/19 - Tombi! (Retail - Dutch, English, French, German, Italian)
 1998/06/19 - Tombi! (Retail - Danish, English, Portuguese, Spanish, Swedish)
 ```
+<p align="left">
+  <a href="#">
+	<img src="TombArt/releases_map.png" alt="map">
+  </a>
+</p>
 
 ## Contributing
 Any contributions you make are **greatly appreciated**.
@@ -63,4 +68,5 @@ Any contributions you make are **greatly appreciated**.
 
 
 ## Contact
-You can find us on discord server ;)
+Join the [Discord server.](https://discord.gg/2Bzw8JB)
+Follow [WhoopeeCamp](https://twitter.com/whoopeecamp) and the [Tomba Club](https://twitter.com/TombaClub) on Twitter
