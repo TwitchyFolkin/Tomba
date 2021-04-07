@@ -1,0 +1,105 @@
+prepre9 timer
+minutes 
+80090e14
+seconds
+80090e15
+end game
+80090e17
+800a260b ff = end game
+
+dwarf challanged(end game) 0a259d 
+events start ff complete 01 found 00 not found
+0a2580
+
+
+800a4f3c starts a mission??
+800a4f3d ends a mission at dwarf elders house
+
+800a2a9a
+05 boomerang
+06 stone boomerang
+07 cross bomerang
+08 grapplejack
+
+status
+800a2a99
+00 normal
+01 laugh
+02 cry
+
+movement speed
+800a2a9b
+00 slow
+05 max
+
+how many actions (stepsattack/jump) tomba has taken? goes up to 70?
+800a95d8
+
+800a2ffd tombi's movement?
+800a2ff9
+80 = left 20 = right
+
+tombi jump height
+800ab76c
+09 = hand set to automatic (at end of frame)
+
+tombis position
+800AB67A horizontal half word?
+800AB67E vertical half word?
+
+0x800ab678 horizontal word?
+0x800ab67c vertical word?
+
+tomba move left
+800AB71B 000000FE
+romba move right
+800AB71B 00000002
+
+0x800a2ffc tombie jumping?
+0x800a2ff8
+0x800a5450
+0x800a5454
+40 = up
+20 = attack
+80 = dash?
+10 = menu
+
+item slots
+amoutn of items in your backpack 0a2a8c
+
+slot 1 800a298c
+slot 2 800a298d
+slot 3 800a298e
+slot 4 800a298f
+slot 5 800a2990
+00>ff?
+
+800a28b0 1000 year old key 
+0a288c chicks amount
+0a2893 = wings amount?
+items
+
+07 wings
+0e baron
+15 funky parasol
+19 map
+1c = grey pants
+1d purple pants
+800a281e lunch box?
+800a281f purple lunch box?
+20 green pants
+21 green power
+22 ?
+23 pig nose
+24 green key?
+25 green pig bag
+26 green pig badg 2?
+27 yellow pig bad
+28 green gold pig bag
+29 green brown pig bag
+2a green brown pig bag 2
+2b brown and green pig bag
+2c pogostick? drill? menu error
+2d crash
+2e
+2f

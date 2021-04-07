@@ -1,11 +1,11 @@
 prepre8 timer
 minutes 
-000de4a1
+800de4a1
 seconds
-000de4a2
+800de4a2
 
 end demo
-000d4a3
+8000d4a3
 playing
 00
 end game
@@ -14,16 +14,19 @@ to be continued
 02
 
 purple level
-000de210
+800de210
 green level
-000de211
+800de211
 blue level
-000de212
+800de212
 
 amount of level
 purple
-000de214
+800de214
 green
-000de215
+800de215
 blue
-000de216
+800de216
+
+timer end game?
+54F7E ff
