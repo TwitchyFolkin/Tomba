@@ -1,0 +1,41 @@
+newmtl default-o
+Kd 1 1 1
+d 1
+newmtl default-t
+Kd 1 1 1
+d 0.5
+
+newmtl 85-7FC8-o
+Ka 1 1 1
+Kd 1 1 1
+map_Kd tex/85-7FC8.png
+Ks 1 1 1
+Ns 50
+illum 7
+
+newmtl 85-7FC8-t
+Ka 1 1 1
+Kd 1 1 1
+map_Kd tex/85-7FC8.png
+map_d tex/alfa.png
+Ks 1 1 1
+Ns 50
+illum 7
+
+newmtl 83-7FC8-o
+Ka 1 1 1
+Kd 1 1 1
+map_Kd tex/83-7FC8.png
+Ks 1 1 1
+Ns 50
+illum 7
+
+newmtl 83-7FC8-t
+Ka 1 1 1
+Kd 1 1 1
+map_Kd tex/83-7FC8.png
+map_d tex/alfa.png
+Ks 1 1 1
+Ns 50
+illum 7
+
